@@ -1,2 +1,3 @@
 # G-port
-The uninhabited port is always full of flowers.
+
+本仓库作为G的学习笔记存储地，欢迎参观。
